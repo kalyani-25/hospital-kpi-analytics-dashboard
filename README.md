@@ -78,5 +78,5 @@ mv -f hospital_kpis.csv hospital_kpis.png results/
 - Data visualization and executive dashboarding
 - Capacity alert logic for operational decision-making
 
-## How This Helps in a Data Scientist Role
+## How This Project Helps 
 This project demonstrates the ability to create business-facing analytics assets from raw operational data, define useful KPIs, generate BI-ready datasets, and communicate actionable hospital performance insights.
